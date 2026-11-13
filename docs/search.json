@@ -75,5 +75,12 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nNov 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nU.S. Aviation: Flight Activity and Delays\n\n\nAn Excel analysis of January 2025 U.S. flight activity and delays using BTS data.\n\n\n\n\n\n\nNov 13, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nNov 13, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]
