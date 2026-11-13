@@ -2,7 +2,7 @@
 title: "U.S. Aviation: Flight Activity and Delays"
 description: "An Excel analysis of January 2025 U.S. flight activity and delays using BTS data."
 date: "2026-11-13"
-image: question1.png
+image: question1.jpeg
 format: html
 ---
 
@@ -33,7 +33,7 @@ Daily scheduled flights fluctuated throughout January 2025, ranging from 14,690 
 ### Slide Development
 We created an assertion-evidence slide in PowerPoint using our Excel line chart. The slide features a conclusion-based headline and a labeled graph showing daily flight activity.
 
-![Daily Scheduled Flights in January 2025](question1.png)
+![Daily Scheduled Flights in January 2025](question1.jpeg)
 
 ## Question 2: Scheduled Flights by Airline
 
@@ -52,7 +52,7 @@ Southwest Airlines operated the most scheduled flights in January 2025, showing 
 ### Slide Development
 We created an assertion-evidence slide using the Excel bar chart. The slide highlights the airline with the most scheduled flights and compares flight activity across carriers.
 
-![Scheduled Flights by Airline](question2.png)
+![Scheduled Flights by Airline](question2.jpeg)
 
 ## Question 3: Arrival Delay Distribution
 
@@ -90,4 +90,4 @@ The scatter plot allows us to examine whether flight distance and departure dela
 ### Slide Development
 We created an assertion-evidence slide in PowerPoint using the Excel scatter plot. The graph displays flight distance on the horizontal axis and departure delay on the vertical axis, allowing us to visually assess the relationship between the two variables.
 
-![Flight Distance vs. Departure Delay](question4.png)
+![Flight Distance vs. Departure Delay](question4.jpeg)
